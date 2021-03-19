@@ -2,4 +2,4 @@
 
 A donut shaped C program which gives donuts.
 
-# Enjoy your powerful program.
+## Enjoy your powerful program.
